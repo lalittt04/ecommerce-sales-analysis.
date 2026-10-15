@@ -1,0 +1,33 @@
+E-Commerce Sales Analysis Using SQL
+
+Project Overview
+
+This project focuses on analyzing e-commerce sales data using SQL to identify sales trends, product performance, and revenue patterns.
+
+Objectives
+
+- Calculate total sales revenue.
+- Identify top-performing products.
+- Analyze sales trends.
+- Generate insights to support business decisions.
+
+Tools Used
+
+- MySQL
+- SQL
+
+SQL Concepts
+
+- SELECT and WHERE
+- Aggregate Functions
+- GROUP BY and ORDER BY
+- JOINs
+- Subqueries
+
+Project Files
+
+SQL queries and analysis files will be added to this repository.
+
+Key Findings
+
+To be added after completing the analysis.
